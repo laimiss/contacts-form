@@ -15,3 +15,7 @@ code {
 #root {
   padding: 2em;
 }
+
+form {
+  margin: 2em;
+}
